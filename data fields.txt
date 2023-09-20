@@ -1,0 +1,11 @@
+Kode brg
+NUP
+Jenis Brg
+Lokasi
+Luas Total
+Luas Disewa
+Tarif Besaran Sewa
+Jangka Waktu (dalam bulan)
+Identitas Penyewa
+Peruntukan Sewa
+Upload Data
